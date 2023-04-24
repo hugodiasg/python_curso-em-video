@@ -4,22 +4,22 @@ Python course on the [Curso em Vídeo](https://www.cursoemvideo.com/) platform, 
 
 ## World 1:
 - Introduction to the world of programming;
-- First steps with python;
+- First steps with Python;
 - Treating data and making accounts;
-- Using python modules;
-- Conditions in python (if..else);
-- Adding colors to python.
+- Using Python modules;
+- Conditions in Python (if..else);
+- Adding colors to Python.
 
 ## World 2:
 - Introduction to world 2;
-- Conditions in python (if..elif);
-- Repetitions in python (for)
-- Repetitions in python (while)
+- Conditions in Python (if..elif);
+- Repetitions in Python (for);
+- Repetitions in Python (while).
 
 ## World 3:
-- Tuples in python;
-- Lists in python;
-- Dictionaries in python;
-- Functions in python;
-- Modularization in python;
-- Error handling in python.
+- Tuples in Python;
+- Lists in Python;
+- Dictionaries in Python;
+- Functions in Python;
+- Modularization in Python;
+- Error handling in Python.
